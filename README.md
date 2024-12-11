@@ -1,5 +1,5 @@
 
-**[Try Here]**(https://movie-recommender-system-by-meet-patel.streamlit.app/)
+[**Try Here**](https://movie-recommender-system-by-meet-patel.streamlit.app/)
 <br>
 <br>
 Webapp Snapshot 1
