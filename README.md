@@ -3,7 +3,7 @@ Webapp Snapshot 1
 
 
 Webapp Snapshot 2
-![Snapshot 2 with Movie Input](./snapshots/Screenshot1.png "Snapshot2")
+![Snapshot 2 with Movie Input](./snapshots/Screenshot2.png "Snapshot2")
 
 
 
